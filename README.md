@@ -2,4 +2,4 @@
 A simple and easy to use command/event handler programmed in Discord.js
 
 # Required Packages
-npm i dotenv \n npm i discord.js
+npm i dotenv <h> npm i discord.js </h>
