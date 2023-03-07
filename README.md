@@ -5,5 +5,5 @@ A simple and easy to use command/event handler programmed in Discord.js
 dotenv, discord.js
 
 # How to run the bot
-## Install Required Packages
+### Install Required Packages
 Firstly install the required packages by doing "npm install"
