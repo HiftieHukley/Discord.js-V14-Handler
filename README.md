@@ -6,4 +6,6 @@ dotenv, discord.js
 
 # How to run the bot
 ### Install Required Packages
-Firstly install the required packages by doing "npm install"
+Firstly install the required packages by doing "npm install" and do "npm init"
+### Configuration
+Go to ".env" file and paste your bot token. After that move to **src/functions/handleCommands.js**
